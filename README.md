@@ -49,13 +49,12 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 
 ## 🗂️ Proyectos destacados
 
-> 🚧 *Próximamente estaré subiendo mis proyectos. ¡Mantente atento!*
+> 🚧 *Próximamente estaré subiendo mis proyectos.*
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
 | 🔗 Proyecto 1 | Descripción breve del proyecto | HTML, CSS, JS |
 | 🔗 Proyecto 2 | Descripción breve del proyecto | Node.js, JS |
-| 🔗 Proyecto 3 | Descripción breve del proyecto | Python, Flet |
 
 ---
 
