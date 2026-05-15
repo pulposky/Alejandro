@@ -36,25 +36,12 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🗂️ Proyectos destacados
 
 > 🚧 *Próximamente estaré subiendo mis proyectos.*
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🔗 Proyecto 1 | Descripción breve del proyecto | HTML, CSS, JS |
-| 🔗 Proyecto 2 | Descripción breve del proyecto | Node.js, JS |
 
 ---
 
