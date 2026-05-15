@@ -59,7 +59,6 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alejogarcia0324@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
 
 </div>
 
