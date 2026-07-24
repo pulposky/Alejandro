@@ -36,15 +36,6 @@ Me defino como una persona **colaborativa, responsable y honesta**, que disfruta
 
 ---
 
-## 🗂️ Proyectos destacados
-
-> 🚧 *Próximamente estaré subiendo mis proyectos.*
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-
----
-
 ## 🤝 Soft skills
 
 - 🤝 **Colaborativo** — Trabajo bien en equipo y me adapto a diferentes dinámicas de trabajo
